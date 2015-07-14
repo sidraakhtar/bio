@@ -1,0 +1,11 @@
+body {
+  background-color: #4DB8FF; 
+  
+}
+img {
+  width: 500px;
+}
+
+p.italic {
+    font-style: italic;
+}
